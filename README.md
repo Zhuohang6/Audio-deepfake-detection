@@ -10,7 +10,7 @@ Audio deepfakes, AI-generated fake audio recordings. This project will be explor
 
 ### Datasets
 
-This project leverages the following datasets:
+This project uses the following datasets:
 
 - **ASVspoof 2019 LA Dataset**: A comprehensive dataset that captures various spoofing attacks.
 - **ASVspoof 2017 Dataset**: An earlier version providing mainly replay attacks.
