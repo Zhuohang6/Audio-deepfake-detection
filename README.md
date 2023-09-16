@@ -15,3 +15,24 @@ This project uses the following datasets:
 - **ASVspoof 2019 LA Dataset**: A comprehensive dataset that captures various spoofing attacks.
 - **ASVspoof 2017 Dataset**: An earlier version providing mainly replay attacks.
 
+## Prerequisites
+
+- Python 3.8+
+- Libraries: 
+  - torchaudio
+  - numpy
+  - matplotlib
+  - librosa
+  - torch
+  - scikit-learn
+  - scipy
+
+### Installation
+
+Clone the repository:
+```bash
+git clone https://github.com/Zhuohang6/Audio-deepfake-detection.git
+
+Install the required packages:
+pip install -r requirements.txt
+
