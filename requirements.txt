@@ -1,0 +1,7 @@
+torchaudio
+numpy
+matplotlib
+librosa
+torch
+scikit-learn
+scipy
