@@ -31,12 +31,12 @@ This project uses the following datasets:
 
 ## Clone the Repository
 
-\```
+```
 git clone https://github.com/Zhuohang6/Audio-deepfake-detection.git
-\```
+```
 
 ## Install the Required Packages
 
-\```
+```
 pip install -r requirements.txt
-\```
+```
