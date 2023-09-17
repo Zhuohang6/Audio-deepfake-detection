@@ -27,13 +27,16 @@ This project uses the following datasets:
   - scikit-learn
   - scipy
 
-### Installation
 
-Clone the repository:
-```bash
+
+## Clone the Repository
+
+\```
 git clone https://github.com/Zhuohang6/Audio-deepfake-detection.git
+\```
 
+## Install the Required Packages
 
-Install the required packages:
-```bash
+\```
 pip install -r requirements.txt
+\```
